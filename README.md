@@ -1,6 +1,6 @@
 ## Hey, welcome to my profile!
 
-I'm Luiz Lacerda, from Recife, Brazil. I use to say that I started my life when applied to be an exchange student. I lived one year in Chama - New Mexico and it was a great year for me. Since I came back from there I went to college earning an engineering degre where it was my first time studying codding. Now I'm studying web development and CS.
+I'm Luiz Lacerda, from Recife, Brazil. I use to say that I started my life when applied to be an exchange student. I lived one year in Chama - New Mexico and it was a great year for me. Since I came back from there I went to college earning an engineering degree where it was my first time studying codding. Now I'm studying web development and CS.
 ##
                                                                
 <div align="center">
