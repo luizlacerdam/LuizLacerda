@@ -25,7 +25,8 @@ I'm Luiz Lacerda, from Recife, Brazil. I use to say that I started my life when 
 ### Find me here:
 
 <div> 
-  
+  <a href = "mailto:luizlacerdam.dev@gmail.com"><img
+      src="https://img.shields.io/badge/luizlacerdam.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/luizlacerdam"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ##
