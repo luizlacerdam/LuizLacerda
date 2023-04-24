@@ -1,6 +1,11 @@
 ## Hey, welcome to my profile!
 
-Sou Luiz Lacerda, de Recife, Brasil. Desde a infância desenvolvendo servidores de jogos, porém costumo dizer que comecei minha vida quando me inscrevi para ser intercambista. Morei um ano em Novo México - USA e foi um ano muito bom para mim. Desde que voltei de lá, fui para a faculdade obtendo um diploma de engenharia, onde foi a primeira vez que estudei programação de fato. Durante a faculdade desenvolvi alguns projetos, e um deles foi o Meu Comercio na Internet que foi uma iniciativa de catalogar pequenos comerciantes de cidades pequenas dando uma oportunidade para inclui-los digitalmente. Em 2022 iniciei em desenvolvimento web mais a fundo onde realizei cursos em na escola de Harvard e na <a href="https://www.betrybe.com/">Trybe</a> onde aprendi muitas softs e hardskills desenvolvendo dezenas de projetos individualmente e coletivamente.
+Sou Luiz Lacerda, de Recife, Brasil. 
+Desde a infância desenvolvendo servidores de jogos, porém costumo dizer que comecei minha vida quando me inscrevi para ser intercambista. Morei um ano em Novo México - USA e foi um ano muito bom para mim. 
+
+Desde que voltei de lá, fui para a faculdade obtendo um diploma de engenharia, onde foi a primeira vez que estudei programação de fato. Durante a faculdade desenvolvi alguns projetos, e um deles foi o Meu Comercio na Internet que foi uma iniciativa de catalogar pequenos comerciantes de cidades pequenas dando uma oportunidade para inclui-los digitalmente. 
+
+Em 2022 iniciei em desenvolvimento web mais a fundo onde realizei cursos em na escola de Harvard e na <a href="https://www.betrybe.com/">Trybe</a> onde aprendi muitas softs e hardskills desenvolvendo dezenas de projetos individualmente e coletivamente.
 ##
                                                                
 <div align="center">
