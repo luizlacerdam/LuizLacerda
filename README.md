@@ -1,11 +1,9 @@
 ## Hey, welcome to my profile!
 
-Sou Luiz Lacerda, de Recife, Brasil. 
-Desde a infância desenvolvendo servidores de jogos, porém costumo dizer que comecei minha vida quando me inscrevi para ser intercambista. Morei um ano em Novo México - USA e foi um ano muito bom para mim. 
+I'm Luiz Lacerda! 
+Engineer currently studying Computer Science and working as a Full Stack Web Developer. Since childhood developing game servers, exchange student in my youth.
 
-Desde que voltei de lá, fui para a faculdade obtendo um diploma de engenharia, onde foi a primeira vez que estudei programação de fato. Durante a faculdade desenvolvi alguns projetos, e um deles foi o Meu Comercio na Internet que foi uma iniciativa de catalogar pequenos comerciantes de cidades pequenas dando uma oportunidade para inclui-los digitalmente. 
-
-Em 2022 iniciei em desenvolvimento web mais a fundo onde realizei cursos em na escola de Harvard e na <a href="https://www.betrybe.com/">Trybe</a> onde aprendi muitas softs e hardskills desenvolvendo dezenas de projetos individualmente e coletivamente.
+in 2022 I started in web development deeper where I took courses at Harvard School and at <a href="https://www.betrybe.com/">Trybe</a> where I learned many softs and hardskills developing dozens of projects individually and collectively.
 ##
                                                                
 <div align="center">
