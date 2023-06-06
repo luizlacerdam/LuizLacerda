@@ -1,9 +1,8 @@
 ## Hey, welcome to my profile!
 
-I'm Luiz Lacerda! 
-Engineer currently studying Computer Science and working as a Full Stack Web Developer. Since childhood developing game servers, exchange student in my youth.
+I'm Luiz Lacerda! Engineer currently studying Computer Science and working as a Full Stack Web Developer. Since childhood, I have been developing game servers, exchange student in my youth.
 
-in 2022 I started in web development deeper where I took courses at Harvard School and at <a href="https://www.betrybe.com/">Trybe</a> where I learned many softs and hardskills developing dozens of projects individually and collectively.
+In 2022 I started in web development deeper where I took courses at Harvard School and at Trybe where I learned many softs and hard skills developing dozens of projects individually and collectively.
 ##
                                                                
 <div align="center">
